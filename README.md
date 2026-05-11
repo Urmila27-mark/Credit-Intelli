@@ -14,6 +14,5 @@
 
   **🛠️ Tech StackFrontend: 
   Streamlit – Used to build a clean, interactive web interface for banks and lenders.  
-  Backend: Python – The core logic handling data processing and system integration.
-  
-  AI & Machine Learning: NLP (Natural Language Processing) – Powers the engine that reads, analyzes, and cross-references diverse financial documents like bank statements and PDFs.**  
+  Backend: Python – The core logic handling data processing and system integration.**
+  **AI & Machine Learning: NLP (Natural Language Processing) – Powers the engine that reads, analyzes, and cross-references diverse financial documents like bank statements and PDFs.**
