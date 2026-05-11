@@ -2,9 +2,9 @@
 
 🚀 **The Problem: Why Loan Approvals Lag?**
   Traditional corporate loan processes are hindered by several critical bottlenecks:  
-  Weeks, Not Hours: Approvals are painfully slow, delaying essential business growth.  
-  Fragmented Data: Financial information is scattered across various formats like GST, bank statements, and PDFs.  
-  Manual & Risky: Human-led processes are time-consuming and prone to missing hidden risks,   leading to bad loans.  
+  **Weeks, Not Hours:** Approvals are painfully slow, delaying essential business growth.  
+  **Fragmented Data:** Financial information is scattered across various formats like GST, bank statements, and PDFs.  
+  **Manual & Risky:** Human-led processes are time-consuming and prone to missing hidden risks,   leading to bad loans.  
 
 💡 **Solution:** Our intelligent AI engine automates and accelerates the entire credit lifecycle:  
   **Data Ingestion:** Seamlessly upload company data.  
