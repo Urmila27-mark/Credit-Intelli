@@ -1,4 +1,4 @@
-**Intelli-Credit**: AI Decision EngineIntelli-Credit is a revolutionary AI system designed to transform slow, complex financial processes into fast, intelligent lending decisions. By automating comprehensive credit analysis, it reduces loan processing time from weeks to hours while enhancing accuracy.  
+**Intelli-Credit**: AI Decision Engine Intelli-Credit is a revolutionary AI system designed to transform slow, complex financial processes into fast, intelligent lending decisions. By automating comprehensive credit analysis, it reduces loan processing time from weeks to hours while enhancing accuracy.  
 
 🚀 **The Problem: Why Loan Approvals Lag?**
   Traditional corporate loan processes are hindered by several critical bottlenecks:  
